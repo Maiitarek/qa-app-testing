@@ -1,0 +1,6 @@
+{
+  "dev": "https://your-dev-environment-url.com",
+  "sit": "https://your-sit-environment-url.com",
+  "stg": "https://your-stg-environment-url.com",
+  "prod": "https://your-prod-environment-url.com"
+}

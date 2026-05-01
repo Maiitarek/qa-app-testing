@@ -1,0 +1,15 @@
+target/
+*.class
+*.jar
+.idea/
+*.iml
+out/
+src/test/resources/apk/
+*.apk
+allure-results/
+allure-report/
+logs/
+.DS_Store
+Thumbs.db
+*.java~
+*.bak
